@@ -10,7 +10,9 @@ Hello, Welcome to my GitHub 🤝
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harddolf)](https://github.com/Harddolf/github-readme-stats)
 
 ## Tecnologias do meu dia a dia 
+</br>
 Technologies of my day to day
+</br>
 私の日々の技術
 
 <div style="display: inline_block"><br/>
