@@ -6,9 +6,6 @@ Hello, Welcome to my GitHub 🤝
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendobarros/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harddolf&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harddolf)](https://github.com/Harddolf/github-readme-stats)
-
 ## Tecnologias do meu dia a dia 
 
 Technologies of my day to day
