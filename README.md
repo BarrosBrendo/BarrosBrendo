@@ -1,9 +1,6 @@
 ### Olá, Seja bem vindo ao meu GitHub 🤝
 ### Hello, Welcome to my GitHub 🤝
 ### こんにちは私のGitHubへようこそ🤝
-<div>
-  <a href="www.linkedin.com/in/brendobarros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 Tecnologias do meu dia a dia 
 </br>
 Technologies of my day to day
