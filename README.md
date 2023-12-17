@@ -7,7 +7,7 @@ Programming Student
 -------------------
 
 * 🌍  I'm based in Pernambuco, Brazil
-* ✉️  You can contact me at [brendo.barros34@gmail.com](mailto:brendo.barros34@gmail.com)
+* ✉️  You can contact me at [brendobarros34@gmail.com](mailto:brendobarros34@gmail.com)
 
 ### Skills
 
