@@ -21,19 +21,19 @@ Programming Student
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Brendo+Barros;I'm+20+years+old;I'm+from+Brazil;I+Studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harddolf&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BarrosBrendo&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Harddolf&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="Caroline Barbosa github stats" /> 
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harddolf&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=000000" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=BarrosBrendo&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="Caroline Barbosa github stats" /> 
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarrosBrendo&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=000000" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harddolf&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BarrosBrendo&theme=matrix&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Harddolf}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BarrosBrendo}/count.svg" /></p> 
 <br>
 </div>
